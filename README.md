@@ -18,7 +18,6 @@ By the end of this workshop, you'll have:
 - ✅ 10+ pieces of marketing content
 - ✅ A complete campaign with consistent storytelling
 - ✅ Your personal AI prompt library
-- ✅ New designer friends and connections
 - ✅ Confidence to integrate AI into your workflow
 
 ## 🎉 Ready to Start?
