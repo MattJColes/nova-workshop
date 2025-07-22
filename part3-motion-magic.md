@@ -16,7 +16,12 @@ Your understanding of timing, pacing, and visual flow translates perfectly to vi
 
 ### Prerequisites
 - Ensure you have requested model access for Amazon Nova Reel
-- If not, go to "Model access" in the left navigation and request access
+- If model access isn't already granted, follow these steps:
+  1. **In the left sidebar**, expand "Configure and learn"
+  2. **Click** "Model access" under Configure and learn
+  3. **From the model provider dropdown**, select "Amazon"
+  4. **From the model dropdown**, choose "Amazon Nova Reel"
+  5. **Click** "Request model access" if needed
 
 ### Step 1: Create S3 Bucket for Video Storage
 Nova Reel requires an S3 bucket to store generated videos.
@@ -35,14 +40,14 @@ Nova Reel requires an S3 bucket to store generated videos.
 
 ### Step 2: Navigate to Video Playground
 1. **Return to Bedrock console**
-2. **In the left sidebar**, expand "Playgrounds"
-3. **Click** "Video" under Playgrounds
+2. **In the left sidebar**, expand "Test"
+3. **Click** "Image / Video playground" under Test
 4. **You'll see** the video generation interface
 
 ### Step 3: Select Nova Reel Model
-1. **In the model provider dropdown**, select "Amazon"
-2. **In the model dropdown**, select "Amazon Nova Reel"
-3. **Interface elements:**
+1. **Select a model**: Categories = Amazon, Models = Nova Reel
+2. **Interface elements:**
+   - Model selector showing "Amazon Nova Reel"
    - Prompt input panel
    - S3 configuration section
    - Video settings panel

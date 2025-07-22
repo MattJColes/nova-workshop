@@ -23,19 +23,19 @@ Show the transformation from stressed manual coding to joyful AI-assisted develo
 
 ### Have These Tabs Ready:
 1. **Tab 1: Text Playground**
-   - Bedrock Console → Playgrounds → Text
-   - Model Provider: Amazon → Model: Amazon Nova Pro
+   - Bedrock Console → Test → Chat / Text playground
+   - Select model: Categories = Amazon, Models = Nova Pro
    - Temperature: 0.7
 
 2. **Tab 2: Image Playground**
-   - Bedrock Console → Playgrounds → Image
-   - Model Provider: Amazon → Model: Amazon Nova Canvas
+   - Bedrock Console → Test → Image / Video playground
+   - Select model: Categories = Amazon, Models = Nova Canvas
    - Size: 1024x1024
    - Number: 4 images
 
 3. **Tab 3: Video Playground**
-   - Bedrock Console → Playgrounds → Video
-   - Model Provider: Amazon → Model: Amazon Nova Reel
+   - Bedrock Console → Test → Image / Video playground
+   - Select model: Categories = Amazon, Models = Nova Reel
    - S3 bucket configured
    - Duration: 5-15 seconds
 

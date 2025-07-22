@@ -16,20 +16,25 @@ Your skills in composition, color theory, and visual hierarchy give you a HUGE a
 
 ### Prerequisites
 - Ensure you have requested model access for Amazon Nova Canvas
-- If not, go to "Model access" in the left navigation and request access
+- If model access isn't already granted, follow these steps:
+  1. **In the left sidebar**, expand "Configure and learn"
+  2. **Click** "Model access" under Configure and learn
+  3. **From the model provider dropdown**, select "Amazon"
+  4. **From the model dropdown**, choose "Amazon Nova Canvas"
+  5. **Click** "Request model access" if needed
 
 ### Step 1: Navigate to Image Playground
-1. **From your Bedrock dashboard**, expand "Playgrounds" in the left sidebar
-2. **Click** "Image" under Playgrounds
+1. **In the left sidebar**, expand "Test"
+2. **Click** "Image / Video playground" under Test
 3. **You should see** a different interface optimized for image generation
 
 ### Step 2: Select Nova Canvas Model
-1. **In the model provider dropdown**, select "Amazon"
-2. **In the model dropdown**, select "Amazon Nova Canvas"
-3. **You'll see:**
+1. **Select a model**: Categories = Amazon, Models = Nova Canvas
+2. **You'll see:**
+   - Model selector showing "Amazon Nova Canvas"
    - Prompt input panel for your text
    - Generated image display area
-   - Configuration settings on the right
+   - Configuration settings on the left
    - History of generated images below
 
 ### Step 3: Configure Image Settings
@@ -43,7 +48,7 @@ Your skills in composition, color theory, and visual hierarchy give you a HUGE a
 - **Run Button**: Generates your images
 - **Generated Images**: Displays your created images
 - **Download**: Save images individually by clicking on them
-- **Configuration Panel**: Adjust settings on the right
+- **Configuration Panel**: Adjust settings on the left
 
 ### Step 5: Test Your Setup
 **Quick test prompt:**
