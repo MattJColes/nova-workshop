@@ -94,39 +94,69 @@ Nova Reel requires an S3 bucket to store generated videos.
 
 ### Key Video Vocabulary
 
-**Camera Movements:**
-- Static/locked shot
-- Slow zoom in/out
-- Pan left/right
-- Tilt up/down
-- Tracking/dolly shot
-- Orbital/arc shot
+**Camera Movements (Your Cinematic Toolkit):**
+- **Static/locked shot** → Stability, focus on subject
+  - *Use for*: Product features, testimonials
+- **Slow zoom in/out** → Create emphasis or reveal context
+  - *Emotional impact*: Drawing viewer in or showing bigger picture
+- **Pan left/right** → Reveal information progressively
+  - *Designer tip*: Like sliding panels in web design
+- **Tilt up/down** → Show scale or hierarchy
+  - *Marketing use*: Revealing tall buildings, growth charts
+- **Tracking/dolly shot** → Follow action, create energy
+  - *Perfect for*: Following user journey
+- **Orbital/arc shot** → Premium, dimensional feel
+  - *Brand impact*: Shows sophistication
 
-**Transition Types:**
-- Cut
-- Fade in/out
-- Cross dissolve
-- Wipe
-- Morph transition
-- Match cut
+**Transition Types (Your Editing Language):**
+- **Cut** → Instant, energetic, modern
+  - *When to use*: Fast-paced demos, multiple features
+- **Fade in/out** → Beginning/ending, passage of time
+  - *Emotional tone*: Thoughtful, classic
+- **Cross dissolve** → Smooth connection between related scenes
+  - *Designer parallel*: Like opacity transitions in UI
+- **Wipe** → Dynamic scene change
+  - *Brand personality*: Bold, attention-grabbing
+- **Morph transition** → Magical transformation
+  - *Perfect for*: Before/after, product evolution
+- **Match cut** → Clever continuity
+  - *Pro move*: Links concepts visually
 
-**Pacing Descriptors:**
-- Fast-paced/energetic
-- Slow and contemplative
-- Building momentum
-- Rhythmic cuts
-- Smooth flow
+**Pacing Descriptors (Rhythm & Energy):**
+- **Fast-paced/energetic** → Excitement, urgency, youth
+  - *Use for*: Product launches, feature lists
+- **Slow and contemplative** → Premium, thoughtful, trust
+  - *Use for*: Brand stories, testimonials
+- **Building momentum** → Journey, progress, achievement
+  - *Story arc*: Problem → solution → success
+- **Rhythmic cuts** → Musical, memorable, engaging
+  - *Sync to*: Imagined beat or brand tempo
+- **Smooth flow** → Professional, seamless, quality
+  - *Brand message*: Everything just works
 
 ## Project 1: Developer Transformation Story (25 min)
 
 ### Creating Your 15-Second Narrative Arc
 
-**Storyboard Structure:**
+**Designer's Guide to Video Storytelling:**
+Think of this like designing a micro-journey—every second counts, just like every pixel in your designs.
+
+**The Classic 3-Act Structure (Adapted for Marketing):**
 ```
 0-5 sec: Problem (Struggle)
 5-10 sec: Discovery (Solution)
 10-15 sec: Result (Success)
 ```
+
+**Why This Works:**
+- **Mirrors user journey**: Awareness → Consideration → Decision
+- **Emotional arc**: Tension → Relief → Satisfaction
+- **Designer parallel**: Like a landing page flow—hook, value prop, CTA
+
+**Pro Designer Tips:**
+1. **First frame = Thumbnail**: Design your opening to work as a static image
+2. **5-second rule**: Key message must land by second 5 (attention spans!)
+3. **Visual hierarchy in motion**: Most important element should move/change first
 
 ### Scene 1: The Struggle (0-5 seconds)
 
@@ -307,13 +337,42 @@ Create these video concepts:
 
 ### Video Specifications Cheat Sheet
 
-**Instagram Feed:** 1:1, up to 60 seconds
-**Instagram Reels:** 9:16, up to 90 seconds
-**Instagram Stories:** 9:16, up to 60 seconds
-**TikTok:** 9:16, up to 10 minutes
-**LinkedIn:** 16:9 or 1:1, up to 10 minutes
-**Twitter/X:** 16:9, up to 2:20
-**YouTube Shorts:** 9:16, up to 60 seconds
+**Designer's Quick Reference (Save This!):**
+
+**Instagram Feed:** 
+- **Aspect**: 1:1 (1080x1080px)
+- **Duration**: Up to 60 seconds
+- **Designer note**: Think "thumb-stopping" square compositions
+
+**Instagram Reels:** 
+- **Aspect**: 9:16 (1080x1920px)
+- **Duration**: Up to 90 seconds
+- **Design tip**: Vertical = intimate, fills phone screen
+
+**Instagram Stories:** 
+- **Aspect**: 9:16 (1080x1920px)
+- **Duration**: Up to 60 seconds
+- **Key insight**: Design for tapping through quickly
+
+**TikTok:** 
+- **Aspect**: 9:16 (1080x1920px)
+- **Duration**: Up to 10 minutes
+- **Strategy**: Front-load value in first 3 seconds
+
+**LinkedIn:** 
+- **Aspect**: 16:9 or 1:1
+- **Duration**: Up to 10 minutes
+- **B2B focus**: Professional polish essential
+
+**Twitter/X:** 
+- **Aspect**: 16:9 (1920x1080px)
+- **Duration**: Up to 2:20
+- **Optimize for**: Timeline auto-play without sound
+
+**YouTube Shorts:** 
+- **Aspect**: 9:16 (1080x1920px)
+- **Duration**: Up to 60 seconds
+- **Competition**: Must grab from suggested videos
 
 ### Engagement Optimization
 

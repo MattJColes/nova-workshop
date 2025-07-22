@@ -38,10 +38,26 @@ Your skills in composition, color theory, and visual hierarchy give you a HUGE a
    - History of generated images below
 
 ### Step 3: Configure Image Settings
+
+**Understanding the Parameters:**
+These settings give you creative control, similar to adjusting camera settings in photography.
+
 1. **Number of Images**: Set to 1-5 (start with 4 for variations)
+   - *Why this matters*: Like creating multiple design concepts for a client
+   - *Pro tip*: Generate 4 to see different interpretations of your vision
+
 2. **Image Dimensions**: 1024x1024 (default, perfect for social media)
-3. **CFG Scale**: 8.0 (controls how closely the model follows your prompt)
+   - *Designer note*: Square format works for Instagram, LinkedIn posts
+   - *Future enhancement*: Can be adjusted for different aspect ratios
+
+3. **Prompt Strength Scale**: 8.0 (controls how closely the model follows your prompt)
+   - *Think of it as*: Creative freedom slider (1 = very loose, 15 = very strict)
+   - *Designer translation*: Like the difference between a rough sketch (low) and tight comp (high)
+   - *Sweet spot*: 7-9 balances creativity with accuracy
+
 4. **Seed**: Leave at 0 for random generation (or set specific number for reproducibility)
+   - *Designer benefit*: Save seed numbers of images you love to recreate similar styles
+   - *Use case*: Creating consistent visual series or iterating on a concept
 
 ### Step 4: Understanding the Interface
 - **Prompt Input**: Where you'll type your image descriptions
@@ -75,28 +91,32 @@ Modern tech office with plants, minimalist design, bright natural lighting
 
 ### Visual Vocabulary Essentials
 
-**Composition Terms:**
-- Rule of thirds
-- Leading lines
-- Symmetrical/asymmetrical
-- Close-up/wide shot
-- Bird's eye view/worm's eye view
+**Why This Matters:** AI understands visual language just like you do. The more specific your vocabulary, the better your results.
 
-**Style Descriptors:**
-- Photorealistic
-- Minimalist
-- Corporate professional
-- Tech/futuristic
-- Warm and inviting
-- Clean and modern
+**Composition Terms That AI Understands:**
+- **Rule of thirds** → Creates balanced, professional layouts
+- **Leading lines** → Guides viewer's eye to key elements
+- **Symmetrical/asymmetrical** → Control formality vs. dynamism
+- **Close-up/wide shot** → Emotional impact vs. context
+- **Bird's eye view/worm's eye view** → Authority vs. aspiration
 
-**Lighting Magic:**
-- Golden hour
-- Soft diffused light
-- Dramatic shadows
-- Rim lighting
-- Natural daylight
-- Studio lighting
+**Style Descriptors (With Marketing Impact):**
+- **Photorealistic** → Builds trust, shows real results
+- **Minimalist** → Premium, focused messaging
+- **Corporate professional** → B2B credibility
+- **Tech/futuristic** → Innovation positioning
+- **Warm and inviting** → Approachable brands
+- **Clean and modern** → Efficiency and clarity
+
+**Lighting Magic (Emotion Through Light):**
+- **Golden hour** → Optimism, new beginnings
+- **Soft diffused light** → Approachable, friendly
+- **Dramatic shadows** → Bold, decisive
+- **Rim lighting** → Premium, standout
+- **Natural daylight** → Authentic, transparent
+- **Studio lighting** → Professional, controlled
+
+**Pro Designer Tip:** Combine 3-4 terms for precision. Example: "minimalist composition, soft diffused lighting, rule of thirds, clean modern style"
 
 ## Project 1: The Tale of Two Developers (20 min)
 
@@ -134,12 +154,33 @@ color palette, lifestyle photography style
 3. Include: "awards or achievements on wall"
 4. Mood: "zen-like calm atmosphere"
 
-### 🎯 Consistency Tips
-To maintain visual storytelling:
-- Use same "model" descriptors (age, appearance)
-- Keep consistent style (photography type)
-- Match color grading across series
-- Maintain similar composition rules
+### 🎯 Consistency Tips for Visual Storytelling
+
+**The Designer's Challenge:** Creating a cohesive campaign across multiple images.
+
+**Your Consistency Toolkit:**
+
+1. **Character Consistency**
+   - Use same descriptors: "mid-30s developer, short brown hair, blue shirt"
+   - *Why it works*: Like casting the same actor in your campaign
+   - *Designer parallel*: Brand guidelines for people photography
+
+2. **Style Consistency**
+   - Lock in your style: "Professional photography, shallow depth of field, Canon 85mm lens look"
+   - *Designer benefit*: Creates recognizable visual signature
+   - *Think of it as*: Your campaign's visual DNA
+
+3. **Color Story**
+   - Define palette: "Cool blue tones, touches of warm orange, desaturated overall"
+   - *Marketing impact*: Instant brand recognition
+   - *Pro move*: Reference specific color temperatures (5600K daylight)
+
+4. **Composition Framework**
+   - Stick to rules: "Always rule of thirds, subject on left third"
+   - *Why this matters*: Creates visual rhythm across assets
+   - *Designer insight*: Like using consistent grid system
+
+**Save This Recipe:** When you nail the look, save your exact prompt as your "style guide" for the campaign
 
 ## Project 2: Dynamic Marketing Backgrounds (15 min)
 

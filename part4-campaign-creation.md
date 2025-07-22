@@ -11,9 +11,20 @@ Create a complete marketing campaign that tells a cohesive story across all medi
 Show the transformation from stressed manual coding to joyful AI-assisted development.
 
 ### 👥 Team Formation
+
+**Build Your Creative Squad:**
 - Form groups of 2-3 designers
-- Assign roles: Copy Chief, Visual Director, Motion Master
-- Collaborate using your combined strengths!
+- Assign roles: 
+  - **Copy Chief**: Words that sell (leads prompting strategy)
+  - **Visual Director**: Images that stop scrolls (ensures visual consistency)
+  - **Motion Master**: Videos that engage (thinks in sequences)
+- **Why teams?** Real campaigns need diverse perspectives—practice creative collaboration!
+
+**Team Dynamic Tips:**
+- Copy Chief starts with key messages
+- Visual Director translates words to images
+- Motion Master adds the time dimension
+- Everyone iterates together!
 
 ## 🔧 Quick Console Navigation Reminder (2 min)
 
@@ -97,18 +108,61 @@ Show the transformation from stressed manual coding to joyful AI-assisted develo
 ### Step 2: Brand Personality
 
 Choose your campaign personality:
-- **The Innovator:** Cutting-edge, bold, futuristic
-- **The Friend:** Warm, supportive, approachable
-- **The Expert:** Authoritative, data-driven, professional
-- **The Rebel:** Disruptive, playful, unconventional
+
+**The Innovator:** 
+- *Voice*: Cutting-edge, bold, futuristic
+- *Visuals*: Sharp angles, neon accents, dark backgrounds
+- *Motion*: Fast cuts, glitch effects, dynamic transitions
+- *Example brands*: Tesla, Apple, SpaceX
+
+**The Friend:** 
+- *Voice*: Warm, supportive, approachable
+- *Visuals*: Soft colors, real people, natural settings
+- *Motion*: Smooth movements, gentle fades, steady pacing
+- *Example brands*: Airbnb, Spotify, Mailchimp
+
+**The Expert:** 
+- *Voice*: Authoritative, data-driven, professional
+- *Visuals*: Clean layouts, charts, corporate settings
+- *Motion*: Precise animations, minimal effects, clear hierarchy
+- *Example brands*: IBM, McKinsey, Microsoft
+
+**The Rebel:** 
+- *Voice*: Disruptive, playful, unconventional
+- *Visuals*: Bold colors, unexpected compositions, street art vibes
+- *Motion*: Surprising transitions, energetic pace, rule-breaking
+- *Example brands*: Red Bull, Discord, Wendy's
+
+**Designer Insight:** Your personality choice affects EVERY prompt you write—stay consistent!
 
 ### Step 3: Visual Style Guide
 
 Define your aesthetic:
-- **Color palette:** Primary, secondary, accent
-- **Typography mood:** Modern, classic, playful
-- **Photography style:** Lifestyle, corporate, abstract
-- **Overall vibe:** Premium, accessible, innovative
+
+**Color Palette Decision Framework:**
+- **Primary:** Your brand anchor (60% usage)
+- **Secondary:** Supporting color (30% usage)
+- **Accent:** Call-to-action pop (10% usage)
+- *Designer tip*: Specify hex codes in prompts for consistency
+
+**Typography Mood (Affects text in images/videos):**
+- **Modern:** Sans-serif, clean, minimal → Tech-forward brands
+- **Classic:** Serif, established, trustworthy → Traditional sectors
+- **Playful:** Rounded, friendly, approachable → Consumer brands
+
+**Photography Style Direction:**
+- **Lifestyle:** Real moments, natural light → Relatability
+- **Corporate:** Polished, studio-lit → Professionalism  
+- **Abstract:** Conceptual, artistic → Innovation
+- *Pro move*: Reference specific photographers or campaigns
+
+**Overall Vibe Calibration:**
+- **Premium:** Less is more, space, restraint
+- **Accessible:** Warm, inclusive, diverse
+- **Innovative:** Unexpected, fresh, forward-thinking
+
+**Save This Formula:** 
+"All images should use [color palette], [photography style], conveying [vibe]"
 
 ## Phase 2: Asset Creation Sprint (20 min)
 
