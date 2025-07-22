@@ -25,7 +25,7 @@ Share the most cringe-worthy marketing copy you've encountered. We'll use AI to 
 3. You'll land on the Bedrock dashboard
 
 ### Step 3: Access Nova Pro for Text
-1. **In the left sidebar**, click "Playgrounds"
+1. **In the left sidebar**, click "Test"
 2. **Select** "Text" playground
 3. **From the model dropdown**, choose "Amazon Nova Pro"
 4. You should see:
