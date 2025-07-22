@@ -28,13 +28,13 @@ Share the most cringe-worthy marketing copy you've encountered. We'll use AI to 
 2. **Click** "Amazon Bedrock" from the results
 3. You'll land on the Bedrock dashboard
 
-### Step 3: Access Nova Pro for Text
+### Step 3: Access Nova Pro for Text, Nova Canvas for Images, Nova Reels for Video
 1. **In the left sidebar**, expand "Test"
 2. **Click** "Text" under Test
 3. **From the model provider dropdown**, select "Amazon"
-4. **From the model dropdown**, choose "Amazon Nova Pro"
+4. **From the model dropdown**, choose "Amazon Nova Pro", "Amazon Nova Canvas" and "Amazon Nova Reels".
 5. You should see:
-   - Model selector showing "Amazon Nova Pro"
+   - Model selector showing "Amazon Nova Pro", "Amazon Nova Pro", "Amazon Nova Canvas" and "Amazon Nova Reels".
    - Prompt input panel for your text
    - Configuration settings on the right
    - Generated output area below
@@ -92,7 +92,7 @@ Apply these same principles to text!
 ### Round 1: Basic Prompt
 Try this first:
 ```
-Write a tagline about a developer using AI
+Write a tagline about a developer using new tools
 ```
 
 **What you'll likely get:** Generic, uninspiring copy
@@ -101,14 +101,14 @@ Write a tagline about a developer using AI
 Now try:
 ```
 Create a punchy tagline for a tech startup showing a developer 
-who switched from manual coding to AI-assisted development. 
+who switched from manual coding to automated development. 
 Emphasize time saved (50%) and creative freedom gained. 
 Make it memorable and under 8 words. Avoid technical jargon.
 ```
 
 ### Round 3: Your Turn!
 Create taglines for these scenarios:
-1. Developer discovering AI for the first time
+1. Developer discovering automation for the first time
 2. Team celebrating faster deployment
 3. Company showcasing productivity gains
 
@@ -124,7 +124,7 @@ This powerful formula creates instant narrative tension and resolution - perfect
 
 **Real Examples:**
 - "From 8-hour deploys to 8-minute releases in 30 days"
-- "No more debugging nightmares. Hello AI-powered fixes."
+- "No more debugging nightmares. Hello cleaner code."
 - "Manual testing is out. Automated confidence is in."
 
 **Why It Works:**
@@ -137,7 +137,7 @@ This powerful formula creates instant narrative tension and resolution - perfect
 When prompting Nova Pro, use this structure:
 ```
 Create a headline using the before/after formula showing how developers 
-go from [specific pain point] to [specific benefit] with AI assistance.
+go from [specific pain point] to [specific benefit].
 Make it punchy and under 10 words.
 ```
 
@@ -146,7 +146,7 @@ Make it punchy and under 10 words.
 ### The Multiplication Method
 One concept → Multiple formats
 
-**Your Mission:** Take the concept "AI makes developers happier and more productive"
+**Your Mission:** Take the concept "Modern tools make developers happier and more productive"
 
 Create 5 variations of each:
 
@@ -158,7 +158,7 @@ Each social platform has unique audience expectations and content formats. Under
 
 **LinkedIn (Professional Storytelling)**
 ```
-Prompt: Write a LinkedIn post about developers using AI to boost 
+Prompt: Write a LinkedIn post about developers using modern tools to boost 
 productivity. Include a surprising statistic, personal insight, 
 and call-to-action. Professional tone, 100-150 words.
 ```
@@ -180,7 +180,7 @@ CTA: Question or invitation to share
 **Twitter/X (Conversation Starters)**
 ```
 Prompt: Create a tweet thread (3 tweets) about developer happiness 
-with AI tools. Make it conversational, include emojis, and end 
+with modern tools. Make it conversational, include emojis, and end 
 with a question to drive engagement.
 ```
 
@@ -242,7 +242,7 @@ Your subject line determines whether your email gets opened. Different psycholog
 
 **Nova Pro Subject Line Generator:**
 ```
-Create 5 email subject lines for an AI coding assistant launch.
+Create 5 email subject lines for a developer productivity tool launch.
 Mix psychological approaches: curiosity, FOMO, direct benefit,
 question, and personalization. Keep under 50 characters.
 Include one with a specific metric or timeframe.
@@ -269,7 +269,7 @@ Great CTAs combine action verbs with specific benefits. They should create urgen
 
 **Nova Pro Prompt for CTAs:**
 ```
-Generate 5 call-to-action button texts for an AI coding assistant.
+Generate 5 call-to-action button texts for a developer tool.
 Each should be 2-4 words, start with an action verb, and imply
 a specific benefit. Avoid generic phrases like "Learn More" or "Click Here".
 Target audience: Senior developers who value efficiency.
@@ -291,11 +291,11 @@ Never settle for your first idea. Creating variations lets you test what resonat
 
 **Short vs. Long Copy**
 - Short: "Code faster. Ship sooner."
-- Long: "Transform your development workflow with AI that understands your code"
+- Long: "Transform your development workflow with tools that understand your code"
 - Test for: Platform and placement
 
 **Feature vs. Benefit Focus**
-- Feature: "AI-powered code completion"
+- Feature: "Advanced code completion"
 - Benefit: "Finish projects weeks earlier"
 - Test when: Audience familiarity varies
 
@@ -306,7 +306,7 @@ Never settle for your first idea. Creating variations lets you test what resonat
 
 **Nova Pro Variation Generator:**
 ```
-Create 4 versions of this message: "AI helps developers code faster"
+Create 4 versions of this message: "Modern tools help developers code faster"
 Version 1: Emotional appeal, short
 Version 2: Logical/data-driven, short  
 Version 3: Feature-focused, medium length
@@ -326,6 +326,7 @@ Prompt: Rewrite this tagline in the style of [brand]:
 - Apple: Minimalist, revolutionary
 - Nike: Motivational, action-oriented  
 - Slack: Friendly, conversational
+Do not mention products or brands.
 ```
 
 **Brand Voice Characteristics:**
@@ -366,7 +367,7 @@ Create copy that evokes [emotion]:
 
 **Nova Pro Emotional Prompt:**
 ```
-Write 3 taglines for an AI coding tool, each evoking a different emotion:
+Write 3 taglines for a developer productivity tool, each evoking a different emotion:
 1. Relief (solving a pain point)
 2. Excitement (discovering possibilities)
 3. Confidence (mastering the tool)
@@ -398,7 +399,7 @@ Write this message with constraints:
 
 **Format Experiments:**
 - Haiku: Adds rhythm and memorability
-- Example: "Errors fade away / AI guides your coding path / Success blooms at last"
+- Example: "Errors fade away / Smart tools guide your path / Success blooms at last"
 
 **Question-Only Copy:**
 - Engages reader's curiosity
@@ -418,7 +419,7 @@ Write this message with constraints:
 9. Upgrade prompt
 10. Thank you message
 
-**Theme:** Happy developer using AI
+**Theme:** Happy developer using modern tools
 
 ## Key Takeaways & Your Prompt Toolkit
 
