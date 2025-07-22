@@ -66,7 +66,35 @@ These settings give you creative control, similar to adjusting camera settings i
 - **Download**: Save images individually by clicking on them
 - **Configuration Panel**: Adjust settings on the left
 
-### Step 5: Test Your Setup
+### Step 5: Image Refinement Tools
+
+**The Designer's Secret Weapon:**
+When an image is almost perfect but needs tweaking, click on any generated image to access powerful editing tools.
+
+**Available Editing Options:**
+1. **Generate Variations**
+   - *What it does*: Creates similar versions with slight differences
+   - *Designer use*: Like exploring design iterations quickly
+   - *When to use*: Love the concept but want different angles/details
+
+2. **Remove Objects**
+   - *What it does*: Intelligently removes unwanted elements
+   - *Designer parallel*: Like using content-aware fill in Photoshop
+   - *Perfect for*: Cleaning up distracting background elements
+
+3. **Replace Objects**
+   - *What it does*: Swaps specific elements while keeping composition
+   - *Example*: Change laptop brand, switch coffee cup style
+   - *Pro tip*: Maintains lighting and perspective automatically
+
+4. **Replace Background**
+   - *What it does*: Keeps subject, changes entire environment
+   - *Designer benefit*: Test same subject in different contexts
+   - *Use case*: Moving developer from office to home setting
+
+**Workflow Tip:** Generate 4 images → Pick best one → Use editing tools to perfect it
+
+### Step 6: Test Your Setup
 **Quick test prompt:**
 1. **Type in the prompt input area:**
 ```
@@ -74,6 +102,10 @@ Modern tech office with plants, minimalist design, bright natural lighting
 ```
 2. **Click the "Run" button**
 3. **Expected result:** You should see 4 variations of a clean, modern office in the output area
+4. **Try the editing tools:** Click on your favorite image and experiment with:
+   - Generate variations to see different plant arrangements
+   - Remove an object if something looks out of place
+   - Replace the background to try a different office style
 
 ### 💡 Navigation Tips:
 - Use browser tabs to keep both Text and Image playgrounds open
@@ -231,6 +263,24 @@ space for logo and tagline
 ```
 
 ## Project 3: Brand Assets & Icons (20 min)
+
+### Creating Gradient Wave Backgrounds
+
+**Modern Background Foundation:**
+```
+Abstract gradient wave background, flowing organic shapes, 
+purple to blue gradient mesh, smooth curves suggesting motion, 
+high resolution 1024x1024, suitable for overlaying UI elements, 
+modern tech aesthetic, subtle glow effects
+```
+
+**Variations to Try:**
+1. **Energetic:** "Dynamic wave pattern, electric blue to green gradient, sharp peaks"
+2. **Calm:** "Gentle rolling waves, pastel purple to pink, soft transitions"
+3. **Premium:** "Minimal wave design, deep purple to black, elegant restraint"
+4. **Playful:** "Colorful wave spectrum, rainbow gradient, bubbly movement"
+
+**Designer Pro Tip:** Save your favorite as a base layer for consistent branding across assets
 
 ### Creating an AI Assistant Mascot
 

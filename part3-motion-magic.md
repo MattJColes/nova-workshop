@@ -266,6 +266,24 @@ difference, progress bars racing, modern versus outdated visual styling
 
 ## Project 3: Social Media Snippets (15 min)
 
+### Animated Gradient Wave Backgrounds
+
+**Dynamic Background Videos:**
+```
+5-second looping video: Abstract gradient waves flowing smoothly, 
+purple to blue color shift, organic movement from left to right, 
+seamless loop point, suitable for text overlay, modern tech aesthetic, 
+subtle particle effects floating upward, 1080x1920 vertical format
+```
+
+**Motion Variations:**
+1. **Energetic Pulse:** "Waves pulsing with rhythm, synchronized color shifts, high energy"
+2. **Gentle Flow:** "Slow undulating waves, calming motion, meditation-like pace"
+3. **Tech Matrix:** "Digital wave patterns, data particles, futuristic feel"
+4. **Brand Colors:** "Waves transitioning through brand palette, cohesive identity"
+
+**Designer Application:** Use as background for social posts, stories, or presentation slides
+
 ### Instagram Reel: "Day in the Life"
 
 ```
