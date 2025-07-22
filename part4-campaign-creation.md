@@ -17,21 +17,25 @@ Show the transformation from stressed manual coding to joyful AI-assisted develo
 
 ## 🔧 Quick Console Navigation Reminder (2 min)
 
+### Prerequisites
+- Ensure you have model access for all Nova models (Pro, Canvas, Reel)
+- If not, go to "Model access" in the left navigation and request access
+
 ### Have These Tabs Ready:
 1. **Tab 1: Text Playground**
    - Bedrock Console → Playgrounds → Text
-   - Model: Amazon Nova Pro
+   - Model Provider: Amazon → Model: Amazon Nova Pro
    - Temperature: 0.7
 
 2. **Tab 2: Image Playground**
    - Bedrock Console → Playgrounds → Image
-   - Model: Amazon Nova Canvas
+   - Model Provider: Amazon → Model: Amazon Nova Canvas
    - Size: 1024x1024
    - Number: 4 images
 
 3. **Tab 3: Video Playground**
    - Bedrock Console → Playgrounds → Video
-   - Model: Amazon Nova Reel
+   - Model Provider: Amazon → Model: Amazon Nova Reel
    - S3 bucket configured
    - Duration: 5-15 seconds
 

@@ -14,6 +14,10 @@ Your understanding of timing, pacing, and visual flow translates perfectly to vi
 
 ## 🔧 Bedrock Console Setup for Nova Reel (10 min)
 
+### Prerequisites
+- Ensure you have requested model access for Amazon Nova Reel
+- If not, go to "Model access" in the left navigation and request access
+
 ### Step 1: Create S3 Bucket for Video Storage
 Nova Reel requires an S3 bucket to store generated videos.
 
@@ -31,14 +35,15 @@ Nova Reel requires an S3 bucket to store generated videos.
 
 ### Step 2: Navigate to Video Playground
 1. **Return to Bedrock console**
-2. **In the left sidebar**, click "Playgrounds"
-3. **Select** "Video" playground
+2. **In the left sidebar**, expand "Playgrounds"
+3. **Click** "Video" under Playgrounds
 4. **You'll see** the video generation interface
 
 ### Step 3: Select Nova Reel Model
-1. **In the model dropdown**, select "Amazon Nova Reel"
-2. **Interface elements:**
-   - Text prompt area
+1. **In the model provider dropdown**, select "Amazon"
+2. **In the model dropdown**, select "Amazon Nova Reel"
+3. **Interface elements:**
+   - Prompt input panel
    - S3 configuration section
    - Video settings panel
    - Generation status area
@@ -58,14 +63,15 @@ Nova Reel requires an S3 bucket to store generated videos.
 
 ### Step 6: Test Your Setup
 **Quick test prompt:**
+1. **Type in the prompt input area:**
 ```
 5-second video: Smooth zoom into a modern computer screen showing code transforming into a beautiful app interface, tech blue colors, professional style
 ```
-
-**Note:** Video generation takes 2-5 minutes. You'll see:
-- "Generation in progress" status
-- Progress indicator
-- "View in S3" link when complete
+2. **Click the "Run" button**
+3. **Note:** Video generation takes 2-5 minutes. You'll see:
+   - "Generation in progress" status
+   - Progress indicator
+   - Link to view in S3 when complete
 
 ### 💡 Pro Tips:
 - Start with shorter durations (5-10 seconds)

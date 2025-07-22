@@ -14,18 +14,23 @@ Your skills in composition, color theory, and visual hierarchy give you a HUGE a
 
 ## 🔧 Bedrock Console Setup for Nova Canvas (5 min)
 
+### Prerequisites
+- Ensure you have requested model access for Amazon Nova Canvas
+- If not, go to "Model access" in the left navigation and request access
+
 ### Step 1: Navigate to Image Playground
-1. **From your Bedrock dashboard**, click "Playgrounds" in the left sidebar
-2. **Select** "Image" playground
+1. **From your Bedrock dashboard**, expand "Playgrounds" in the left sidebar
+2. **Click** "Image" under Playgrounds
 3. **You should see** a different interface optimized for image generation
 
 ### Step 2: Select Nova Canvas Model
-1. **In the model dropdown**, select "Amazon Nova Canvas"
-2. **You'll see:**
-   - Text prompt input area
-   - Image preview/generation area
-   - Settings panel on the right
-   - Generated images gallery below
+1. **In the model provider dropdown**, select "Amazon"
+2. **In the model dropdown**, select "Amazon Nova Canvas"
+3. **You'll see:**
+   - Prompt input panel for your text
+   - Generated image display area
+   - Configuration settings on the right
+   - History of generated images below
 
 ### Step 3: Configure Image Settings
 1. **Image Size**: Select "1024x1024" (perfect for social media)
@@ -34,19 +39,20 @@ Your skills in composition, color theory, and visual hierarchy give you a HUGE a
 4. **Style Preset**: None (we'll control style via prompts)
 
 ### Step 4: Understanding the Interface
-- **Prompt Box**: Where you'll type your image descriptions
-- **Generate Button**: Creates your images
-- **History**: Shows your previous generations
-- **Download**: Save images individually
-- **Compare**: View multiple images side-by-side
+- **Prompt Input**: Where you'll type your image descriptions
+- **Run Button**: Generates your images
+- **Generated Images**: Displays your created images
+- **Download**: Save images individually by clicking on them
+- **Configuration Panel**: Adjust settings on the right
 
 ### Step 5: Test Your Setup
 **Quick test prompt:**
+1. **Type in the prompt input area:**
 ```
 Modern tech office with plants, minimalist design, bright natural lighting
 ```
-
-**Expected result:** You should see 4 variations of a clean, modern office
+2. **Click the "Run" button**
+3. **Expected result:** You should see 4 variations of a clean, modern office in the output area
 
 ### 💡 Navigation Tips:
 - Use browser tabs to keep both Text and Image playgrounds open
