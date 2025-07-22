@@ -29,11 +29,13 @@ Share the most cringe-worthy marketing copy you've encountered. We'll use AI to 
 3. You'll land on the Bedrock dashboard
 
 ### Step 3: Access Nova Pro for Text, Nova Canvas for Images, Nova Reels for Video
-1. **In the left sidebar**, expand "Test"
-2. **Click** "Text" under Test
+1. **In the left sidebar**, expand "Configure and learn"
+2. **Click** "Model access" under Configure and learn
 3. **From the model provider dropdown**, select "Amazon"
 4. **From the model dropdown**, choose "Amazon Nova Pro", "Amazon Nova Canvas" and "Amazon Nova Reels".
-5. You should see:
+5. **In the left sidebar**, expand "Test"
+6. **Click** "Chat / Text playground" under Test
+7. You should see:
    - Model selector showing "Amazon Nova Pro", "Amazon Nova Pro", "Amazon Nova Canvas" and "Amazon Nova Reels".
    - Prompt input panel for your text
    - Configuration settings on the right
