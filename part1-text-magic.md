@@ -17,7 +17,7 @@ Share the most cringe-worthy marketing copy you've encountered. We'll use AI to 
 ### Step 1: Access AWS Console
 1. **Open your browser** and go to: https://console.aws.amazon.com
 2. **Sign in** with your AWS credentials
-3. **Check your region** (top-right corner) - ensure Bedrock is available
+3. **Check your region** (top-right corner) - ensure us-east-1 is selected
 
 ### Step 2: Navigate to Bedrock
 1. **In the search bar**, type "Bedrock"
