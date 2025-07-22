@@ -268,10 +268,7 @@ space for logo and tagline
 
 **Modern Background Foundation:**
 ```
-Abstract gradient wave background, flowing organic shapes, 
-purple to blue gradient mesh, smooth curves suggesting motion, 
-high resolution 1024x1024, suitable for overlaying UI elements, 
-modern tech aesthetic, subtle glow effects
+diagonal curved lines, dense parallel lines, consistent line spacing, smooth wave distortion, blue to magenta gradient background, thin wire lines, retro computer graphics, digital wave pattern, uniform line thickness, gentle S-curve waves, evenly spaced parallel stripes, vertical line grid with wave effect, synthwave aesthetic, clean geometric lines, consistent wave amplitude, digital mesh pattern, smooth gradient from blue top to pink bottom.
 ```
 
 **Variations to Try:**
