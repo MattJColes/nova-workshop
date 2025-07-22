@@ -38,10 +38,10 @@ Your skills in composition, color theory, and visual hierarchy give you a HUGE a
    - History of generated images below
 
 ### Step 3: Configure Image Settings
-1. **Image Size**: Select "1024x1024" (perfect for social media)
-2. **Number of Images**: Set to 4 (good for variations)
-3. **Quality**: High (for professional marketing assets)
-4. **Style Preset**: None (we'll control style via prompts)
+1. **Number of Images**: Set to 1-5 (start with 4 for variations)
+2. **Image Dimensions**: 1024x1024 (default, perfect for social media)
+3. **CFG Scale**: 8.0 (controls how closely the model follows your prompt)
+4. **Seed**: Leave at 0 for random generation (or set specific number for reproducibility)
 
 ### Step 4: Understanding the Interface
 - **Prompt Input**: Where you'll type your image descriptions
