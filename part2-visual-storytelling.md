@@ -443,3 +443,24 @@ Time to make these images move! Let's explore Nova Reel...
 
 ### 🤔 Quick Share
 *Which visual style resonated most with your brand vision? Compare with a neighbor!*
+
+---
+
+## 🍽️ Lunch Break! (45 minutes)
+
+**Time to refuel and reflect on your creative journey so far!**
+
+### What to discuss over lunch:
+- Share your favorite generated images
+- Compare prompt techniques that worked well
+- Plan your video storytelling approach for Part 3
+- Network with fellow designers
+
+### Quick prep for Part 3:
+- Think about your brand personality choice
+- Consider your developer transformation story
+- Get excited about bringing static visuals to life!
+
+*When we return: Motion Magic with Nova Reel - where your images start moving!*
+
+---

@@ -164,16 +164,18 @@ Define your aesthetic:
 **Save This Formula:** 
 "All images should use [color palette], [photography style], conveying [vibe]"
 
-## Phase 2: Asset Creation Sprint (20 min)
+## Phase 2: Asset Creation Sprint (30 min)
 
 ### ⏱️ Timed Creation Rounds
 
-**Round 1: Core Messaging (5 min)**
+**Important Note:** Video generation takes 2-5 minutes per video. Start your video prompts first, then work on text and images while they generate!
+
+**Round 1: Core Messaging (8 min)**
 Using Nova Pro, create:
 1. **Hero Tagline**
    ```
-   Example prompt: Create a memorable 5-7 word tagline for an AI 
-   coding assistant that emphasizes transformation from struggle 
+   Example prompt: Create a memorable 5-7 word tagline for a 
+   developer productivity tool that emphasizes transformation from struggle 
    to success. Professional but inspiring tone.
    ```
 
@@ -184,29 +186,38 @@ Using Nova Pro, create:
    creativity, team happiness
    ```
 
-**Round 2: Visual Foundation (8 min)**
-Using Nova Canvas, create:
+**Round 2: Motion Story (Start First! - 10 min)**
+Using Nova Reel, create (start these first due to generation time):
+1. **15-Second Hero Video**
+   ```
+   15-second transformation video: Developer journey from overwhelmed 
+   to empowered, starting with cluttered desk and errors, transitioning 
+   to clean workspace and success, smooth camera movements, 
+   professional lighting, inspirational music mood
+   ```
+   
+2. **6-Second Social Teaser**
+   ```
+   6-second loop: Quick montage of before/after developer states, 
+   energetic cuts, perfect for social media autoplay
+   ```
+
+**Round 3: Visual Foundation (12 min)**
+Using Nova Canvas, create (while videos generate):
 1. **Hero Image**
    ```
    Example: Split-screen image showing transformation: left side 
    stressed developer in cluttered space, right side same developer 
-   relaxed and productive with AI, dramatic lighting contrast, 
+   relaxed and productive, dramatic lighting contrast, 
    professional photography style
    ```
 
-2. **Social Series**
+2. **Social Series (3 images)**
    - Monday Motivation (struggle recognition)
-   - Wednesday Win (AI discovery)
+   - Wednesday Win (solution discovery) 
    - Friday Feature (success celebration)
 
-**Round 3: Motion Story (7 min)**
-Using Nova Reel, create:
-1. **15-Second Hero Video**
-   - Hook: "Still coding everything manually?"
-   - Problem: Overwhelming complexity
-   - Solution: AI assistance arrival
-   - Result: Transformed workflow
-   - CTA: "Join the revolution"
+**Pro Tip:** Use your 30 minutes efficiently by starting video generation early, then working on faster text and image creation while videos render!
 
 ## Phase 3: Campaign Integration (10 min)
 
@@ -348,6 +359,30 @@ Let's capture this moment! Gather for a group photo to commemorate your AI trans
 ### Stay Creative, Stay Curious, Stay Connected!
 
 *Thank you for joining us on this AI adventure!*
+
+---
+
+## 🤝 Networking & Q&A (30 minutes)
+
+**Connect, share, and plan your AI future!**
+
+### Share & Connect (15 min)
+- **Gallery Walk**: Display campaigns around the room
+- **Exchange contact info** with fellow creators
+- **Share LinkedIn profiles** for ongoing collaboration
+- **Document learnings** in your favorite note-taking app
+
+### Q&A Session (15 min)
+- **Ask anything** about prompting techniques
+- **Troubleshoot** specific use cases for your work
+- **Plan next steps** for implementing AI in your workflow
+- **Get resources** for continued learning
+
+### Take Action:
+- Join the Discord community (link provided)
+- Schedule follow-up collaboration sessions
+- Set calendar reminders for your 30-day challenge
+- Plan your first client AI project
 
 ---
 

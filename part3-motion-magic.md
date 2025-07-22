@@ -12,7 +12,7 @@
 ### 🎬 From Designer to Director
 Your understanding of timing, pacing, and visual flow translates perfectly to video!
 
-## 🔧 Bedrock Console Setup for Nova Reel (10 min)
+## 🔧 Bedrock Console Setup for Nova Reel (15 min)
 
 ### Prerequisites
 - Ensure you have requested model access for Amazon Nova Reel
@@ -23,20 +23,27 @@ Your understanding of timing, pacing, and visual flow translates perfectly to vi
   4. **From the model dropdown**, choose "Amazon Nova Reel"
   5. **Click** "Request model access" if needed
 
-### Step 1: Create S3 Bucket for Video Storage
-Nova Reel requires an S3 bucket to store generated videos.
+### Step 1: Create S3 Bucket for Video Storage (10 minutes)
+Nova Reel requires an S3 bucket to store generated videos. Take your time with this step—it's crucial for video generation.
 
 1. **Open a new browser tab** and go to: https://console.aws.amazon.com/s3/
 2. **Click** "Create bucket"
-3. **Configure your bucket:**
+3. **Configure your bucket carefully:**
    - **Bucket name**: `nova-reel-workshop-[your-name]` (must be globally unique)
-   - **AWS Region**: Same as your Bedrock region
+     - *Try adding numbers if your name is taken: `nova-reel-workshop-john-2024`*
+   - **AWS Region**: **Critical!** Same as your Bedrock region (usually us-east-1)
    - **Object Ownership**: ACLs disabled (recommended)
    - **Block Public Access**: Keep all settings checked (enabled)
-   - **Bucket Versioning**: Disable
+   - **Bucket Versioning**: Disable (saves costs)
    - **Encryption**: Use default (SSE-S3)
 4. **Click** "Create bucket"
-5. **Copy your bucket name** for later use
+5. **Important:** Copy your exact bucket name for later use
+6. **Test access:** Click into your bucket to ensure you can access it
+
+**Troubleshooting Tips:**
+- If bucket name is taken, try adding your initials or numbers
+- Ensure region matches your Bedrock setup
+- If you get permission errors, check your AWS account permissions
 
 ### Step 2: Navigate to Video Playground
 1. **Return to Bedrock console**
@@ -453,3 +460,24 @@ Time to combine everything into a cohesive campaign!
 
 ### 💭 Quick Reflection
 *What video format excited you most? Which platform will you target first?*
+
+---
+
+## ☕ Break Time! (15 minutes)
+
+**Final stretch! Recharge before the grand finale.**
+
+### Use this break to:
+- Review your best video generations from S3
+- Download and organize your favorite assets
+- Think about your integrated campaign strategy
+- Discuss video ideas with teammates
+
+### Get ready for Part 4:
+- Choose your campaign personality (Innovator, Friend, Expert, or Rebel)
+- Plan your 15-second story arc
+- Prepare to combine everything into one cohesive campaign!
+
+*When we return: Time to put it all together in an integrated campaign!*
+
+---

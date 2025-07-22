@@ -473,3 +473,18 @@ Ready to bring these words to life with images? Let's dive into Nova Canvas!
 
 ### 💬 Quick Reflection
 *What surprised you most about AI copywriting? Share with your workshop partner!*
+
+---
+
+## ☕ Break Time! (15 minutes)
+
+**Stretch, network, and recharge before diving into visual creation!**
+
+- Grab refreshments
+- Compare your best copy with other participants  
+- Take notes on successful prompts you want to remember
+- Get ready for Part 2: Visual Storytelling
+
+*When you return, we'll transform those words into stunning visuals!*
+
+---
